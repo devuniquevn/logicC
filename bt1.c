@@ -14,3 +14,6 @@ int main()
 void findProductById(int id){
 	//coding here 
 }
+void findProductByName(char name){
+	
+}
